@@ -7,6 +7,7 @@
 
 body {
   background: #222;
+  background-size: cover;
 }
 
 .card {
@@ -31,7 +32,6 @@ body {
   outline: 0;
   background-color: #ebfffc;
   color: #555;
-  padding: 10px 25px;
   height: 60px;
   border-radius: 30px;
   flex: 1;
